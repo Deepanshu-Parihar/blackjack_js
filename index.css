@@ -1,0 +1,24 @@
+
+h1{
+    color: goldenrod;
+    
+}
+p{
+    color:white;
+    font-weight: 600;
+    
+}
+body{
+   background-image: url('https://media.istockphoto.com/id/1299608766/vector/vector-realistic-isolated-green-poker-table-for-decoration.jpg?s=612x612&w=0&k=20&c=Xk4wepaQjRmYMkfjPTpyy0btenhK-bBH5tpaixWGZJg=');
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-size: cover;
+   font-style: italic
+}
+#btn-start , #btn-newCard{
+    background-color:goldenrod;
+    color:green;
+    padding:5px 25px;
+    font-weight: 600;
+    border: none ;
+    border-radius: 3%
+}
